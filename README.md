@@ -2,7 +2,7 @@
 
 **Backend · Cloud · AI Engineer**
 
-Costruisco sistemi **full-stack e distribuiti**, con un'attenzione particolare ad **architetture backend scalabili**, **AI locale** e **tooling ingegnerizzato`. Amo trasformare problemi complessi in prodotti puliti, testati e documentati.
+Costruisco sistemi **full-stack e distribuiti**, con un'attenzione particolare ad **architetture backend scalabili**, **AI locale** e **tooling ingegnerizzato. Amo trasformare problemi complessi in prodotti puliti, testati e documentati.
 
 - 🔭 Attualmente su: **AI locale**, architetture edge/serverless, e CLI/tool per sviluppatori
 - 🌱 Sto approfondendo: **Rust per sistemi**, **LLM on-device**, **model serving privato**
